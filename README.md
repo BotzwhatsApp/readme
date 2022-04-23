@@ -1,5 +1,3 @@
-![](https://i.ibb.co/9wRdhhH/runtime.jpg)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saipulanuar&label=Profile%20views&color=0e75b6&style=flat" alt="saipulanuar" /> </p>
 
 - 🔭 I’m currently working on **my room**

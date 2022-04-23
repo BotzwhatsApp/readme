@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="#"><img title="RAMDANI BOTZ VERSI 16.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="NEKO BOTZ VERSI 16.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 16.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
